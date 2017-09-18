@@ -5,7 +5,7 @@ def generate():
 
 	if len(sys.argv) < 2:
 
-		print "usage: ntml_gen.py file.txt"
+		print "usage: ntlm_gen.py file.txt"
 
 		sys.exit(1)
 
